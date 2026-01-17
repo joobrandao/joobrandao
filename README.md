@@ -9,25 +9,6 @@ Tenho também experiência no desenvolvimento de **APIs e microserviços com Nod
 
 ---
 
-<p align="left">
-    <a href="https://github.com/joobrandao?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/joobrandao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/joobrandao?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/joobrandao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <!-- Data Engineering -->
@@ -99,8 +80,19 @@ Tenho também experiência no desenvolvimento de **APIs e microserviços com Nod
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<img
-  src="https://metrics.lecoq.io/joobrandao?template=classic&languages=1&lines=1&introduction=1&repositories=1&config.timezone=America/Sao_Paulo"
-/>
+<p align="left">
+    <a href="https://github.com/joobrandao?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/joobrandao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/joobrandao?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/joobrandao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
